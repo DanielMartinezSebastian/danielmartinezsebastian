@@ -6,7 +6,7 @@ I'm a part-time __front-end developer__ and a full-time programming learner
 
 - :heavy_check_mark: Wiring (minimal C++)
 - :heavy_check_mark: 3D modeling and printing
-- :heavy_check_mark: IoT Protoypes Assembly
+- :heavy_check_mark: IoT Prototypes Assembly
 - :heavy_check_mark: Render graphics on LCD
 - :heavy_check_mark: HTML5
 - :heavy_check_mark: CSS & SaSS
