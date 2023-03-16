@@ -1,6 +1,6 @@
 
 # :man_astronaut: Hola!
-I'm a part-time __front-end developer__ and a full-time programming learner
+Part-time __front-end developer__ & full-time programming learner
 
 :compass: ***Roadmap22-23 Checked***
 
