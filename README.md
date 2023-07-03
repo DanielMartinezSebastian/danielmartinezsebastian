@@ -16,6 +16,7 @@ Part-time __front-end developer__ & full-time programming learner
 - :heavy_check_mark: NodeJS
 - :heavy_check_mark: Api Restful 
 - :heavy_check_mark: React  
+- :heavy_check_mark: Next.js 
 - :heavy_check_mark: GoogleCloud App Engine
 - :heavy_check_mark: MongoDb & Firebase
 - :heavy_check_mark: ElectronJS
