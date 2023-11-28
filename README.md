@@ -23,6 +23,7 @@ Part-time __front-end developer__ & full-time programming learner
 - :heavy_check_mark: Web XR/AR with ThreeJS
 - :heavy_check_mark: RTCP & WebSockets
 - :heavy_check_mark: React Native
+- :heavy_check_mark: Workers from CloudFlare
 
  
 :envelope: mailto: daniel@martinezsebastian.com
