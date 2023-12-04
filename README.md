@@ -26,4 +26,4 @@ Part-time __front-end developer__ & full-time programming learner
 - :heavy_check_mark: Workers from CloudFlare
 
  
-:envelope: mailto: daniel@martinezsebastian.com
+✉️ mailto: daniel@martinezsebastian.com
