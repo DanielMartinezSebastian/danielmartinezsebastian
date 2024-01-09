@@ -2,7 +2,7 @@
 # :man_astronaut: Hola!
 Part-time __front-end developer__ & full-time programming learner
 
-:compass: ***Roadmap22-23 Checked***
+:compass:
 
 - :heavy_check_mark: Wiring (minimal C++)
 - :heavy_check_mark: 3D modeling and printing
