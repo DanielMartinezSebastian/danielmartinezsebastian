@@ -1,5 +1,5 @@
 # :man_astronaut: Hola!  
-__Desarrollador full-stack__ & perpetual learner, immersed in the exciting craft of solving problems for the most current business models.  
+__full-stack developer__ & perpetual learner, immersed in the exciting craft of solving problems for the most current business models.  
 
 :compass:  
 
