@@ -12,7 +12,7 @@ __Desarrollador full-stack__ y aprendiz perpetuo, inmerso en el emocionante ofic
 :heavy_check_mark: JavaScript Vanilla  
 :heavy_check_mark: MySQL & MariaDb  
 :heavy_check_mark: Git & GitHub  
-:heavy_check_mark: NodeJS
+:heavy_check_mark: NodeJS  
 :heavy_check_mark: API RESTful  
 :heavy_check_mark: React  
 :heavy_check_mark: Next.js 13&14  
