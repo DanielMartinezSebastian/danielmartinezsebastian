@@ -26,6 +26,7 @@ __full-stack developer__ & perpetual learner, immersed in the exciting craft of 
 :heavy_check_mark: Stripe Payment Gateways  
 :heavy_check_mark: User Management with Supabase and PostgreSQL  
 
-✉️ [daniel@martinezsebastian.com](mailto:daniel@martinezsebastian.com)    
-🌐 [martinezsebastian.com](https://martinezsebastian.com)
+✉️ <a href="mailto:daniel@martinezsebastian.com" target="_blank">daniel@martinezsebastian.com</a>  
+🌐 <a href="https://martinezsebastian.com" target="_blank">martinezsebastian.com</a>
+
 
