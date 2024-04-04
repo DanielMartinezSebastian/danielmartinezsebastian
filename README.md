@@ -24,7 +24,8 @@ __full-stack developer__ & perpetual learner, immersed in the exciting craft of 
 :heavy_check_mark: React Native  
 :heavy_check_mark: Workers from CloudFlare  
 :heavy_check_mark: Stripe Payment Gateways  
-:heavy_check_mark: User Management with Supabase and PostgreSQL  
+:heavy_check_mark: User Management with Supabase and PostgreSQL
+:heavy_check_mark: WebGL & Glsl Shaders
 
 ✉️ [daniel@martinezsebastian.com](mailto:daniel@martinezsebastian.com)    
 🌐 [martinezsebastian.com](https://martinezsebastian.com)
