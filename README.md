@@ -26,6 +26,7 @@ __full-stack developer__ & perpetual learner, immersed in the exciting craft of 
 :heavy_check_mark: Stripe Payment Gateways  
 :heavy_check_mark: User Management with Supabase and PostgreSQL  
 :heavy_check_mark: WebGL & Glsl Shaders
+:heavy_check_mark: ChatBot in Telegram and OpenAI interactions
 
 ✉️ [daniel@martinezsebastian.com](mailto:daniel@martinezsebastian.com)    
 🌐 [martinezsebastian.com](https://martinezsebastian.com)
