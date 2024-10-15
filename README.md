@@ -60,7 +60,7 @@
 - [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/) **Git**: Version control for collaborative development.
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/) **GitHub**: Hosting code and managing projects with Git.
 - [![IoT Prototypes](https://img.shields.io/badge/IoT_Prototypes-00BFFF?logoColor=white)](https://www.postscapes.com/internet-of-things-examples/) **IoT Prototypes**: Building physical devices for smart solutions.
-- [![LCD Rendering](https://img.shields.io/badge/LCD_Rendering-4682B4?logoColor=white)](https://www.adafruit.com/category/63) **LCD Rendering**: Displaying complex visuals on microcontroller-driven displays.
+- [![LCD Rendering](https://img.shields.io/badge/LCD_Rendering-4682B4?logoColor=white)](https://en.wikipedia.org/wiki/Dot-matrix_display) **LCD Rendering**: Displaying complex visuals on microcontroller-driven displays.
 
 ## 📫 Contact
 - ✉️ [daniel@martinezsebastian.com](mailto:daniel@martinezsebastian.com)
